@@ -1,6 +1,6 @@
 # 📁 Website E-Arsip - Dinas Kominfo Kota Madiun
 
-![Lambang Kota Madiun] <img width="816" height="1006" alt="logomadiun" src="https://github.com/user-attachments/assets/22ff7bf1-53db-430a-ae25-117fa61432a8" />
+<img width="200" height="1006" alt="logomadiun" src="https://github.com/user-attachments/assets/22ff7bf1-53db-430a-ae25-117fa61432a8" />
 
 ## 📌 Ringkasan Proyek
 
