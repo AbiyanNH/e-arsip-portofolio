@@ -29,12 +29,15 @@
 
 ## 📂 Struktur Source Code
 
-src/
-├── app/Models/ # Model database
-├── app/Http/Controllers/ # Logic aplikasi
-├── routes/web.php # Semua endpoint
-├── database/migrations/ # Struktur tabel
-└── database/seeders/ # Data awal
+Source code utama berada di folder-folder berikut:
+
+| Lokasi | Isi |
+|--------|-----|
+| `app/Models/` | Model database (User, Post, Category) |
+| `app/Http/Controllers/` | Logic aplikasi (Login, Register, Post) |
+| `routes/web.php` | Semua endpoint website |
+| `database/migrations/` | Struktur tabel database |
+| `database/seeders/` | Data awal (kategori surat) |
 
 ## 🖼️ Screenshot
 
